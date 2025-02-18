@@ -1,0 +1,40 @@
+1. Code Editor (Ringan & Cepat)
+Jika butuh editor ringan untuk coding cepat:
+✅ Visual Studio Code (VS Code) – Paling populer, ringan, dan banyak ekstensi.
+✅ Sublime Text – Super cepat, cocok untuk editing file besar.
+✅ Notepad++ – Simpel untuk coding ringan di Windows.
+
+2. Integrated Development Environment (IDE)
+Kalau butuh fitur lengkap (debugging, autocompletion, dll.):
+✅ JetBrains IntelliJ IDEA – Terbaik untuk Java/Kotlin.
+✅ PyCharm – Khusus Python, fitur AI dan debugging canggih.
+✅ Eclipse – Open-source, sering dipakai untuk Java.
+✅ NetBeans – Cocok untuk Java, PHP, dan C++.
+✅ Xcode – Untuk pengembangan aplikasi iOS/macOS (Swift, Objective-C).
+✅ Android Studio – Wajib untuk Android development (Kotlin/Java).
+
+3. Aplikasi Coding di HP (Android & iOS)
+Kalau mau ngoding di HP/tablet:
+📱 Pydroid 3 – Python di Android.
+📱 AIDE – Bisa coding Java, C++, dan Android langsung di HP.
+📱 Dcoder – Mendukung banyak bahasa pemrograman.
+📱 Juno – Python IDE untuk iOS.
+
+4. Web-Based IDE (Coding di Browser)
+Kalau malas install, bisa coding langsung di browser:
+💻 Replit – Mendukung banyak bahasa, bisa kolaborasi.
+💻 JSFiddle – Cocok untuk eksperimen JavaScript.
+💻 CodeSandbox – Buat proyek React, Vue, atau Node.js dengan cepat.
+💻 Google Colab – Terbaik untuk Python dan machine learning.
+
+5. Terminal & Command Line
+Kalau suka coding langsung dari terminal:
+📟 Windows Terminal – Bagus untuk PowerShell, WSL, dan CMD.
+📟 iTerm2 – Terminal keren buat macOS.
+📟 Hyper – Terminal berbasis JavaScript yang bisa dikustomisasi.
+
+💡 Mana yang terbaik?
+Kalau pemula → VS Code / Replit
+Kalau developer Java / Kotlin → IntelliJ IDEA / Android Studio
+Kalau web developer → VS Code / CodeSandbox
+Kalau mau coding di HP → Dcoder / Pydroid
